@@ -1,0 +1,353 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "O JS é a linguagem da web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "O Python é a linguagem da ciência de dados e IA.",
+    "ano": 1991,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Glossary/Python"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos e multiplataforma. [3, 6]",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+  },
+  {
+    "nome": "C#",
+    "descricao": "C# é uma linguagem de programação moderna, orientada a objetos, desenvolvida pela Microsoft. [27, 31]",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "C++",
+    "descricao": "C++ é uma extensão da linguagem C, com suporte a programação orientada a objetos. [29]",
+    "ano": 1983,
+    "link": "https://isocpp.org/get-started"
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática opcional. [9, 13]",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "nome": "PHP",
+    "descricao": "PHP é uma linguagem de script do lado do servidor popular para desenvolvimento web. [24]",
+    "ano": 1994,
+    "link": "https://www.php.net/manual/pt_BR/"
+  },
+  {
+    "nome": "Go",
+    "descricao": "Go é uma linguagem de programação compilada e focada em produtividade e programação concorrente. [5]",
+    "ano": 2009,
+    "link": "https://go.dev/doc/"
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas focada em segurança, concorrência e performance.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "baixo nível"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna e pragmática, totalmente interoperável com Java, amplamente usada para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "jvm",
+      "android",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação poderosa e intuitiva criada pela Apple para desenvolver apps para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "apple",
+      "mobile",
+      "ios"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Framework de interface de usuário que compila código em código DOM imperativo de alta eficiência, sem um Virtual DOM.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "ui"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e flexibilidade.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "interface de usuário",
+      "spa"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Framework de front-end mantido pelo Google para construir aplicações de página única (SPAs) complexas e escaláveis.",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "google",
+      "spa"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework de React full-stack que permite renderização do lado do servidor (SSR), geração estática (SSG) e roteamento de API.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "fullstack",
+      "ssr",
+      "meta-framework",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "NestJS",
+    "descricao": "Framework para construção de aplicações backend escaláveis e eficientes, usando arquitetura modular e padrões modernos.",
+    "data_criacao": "2017",
+    "link": "https://nestjs.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "serviços web",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema de orquestração de contêineres open-source para automatizar a implantação, dimensionamento e gestão de aplicações conteinerizadas.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "devops",
+      "orquestração",
+      "contêineres",
+      "cloud native"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que utiliza contêineres para empacotar aplicações e dependências, garantindo que funcionem de forma consistente em qualquer ambiente.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "virtualização",
+      "contêineres",
+      "ferramenta devops",
+      "implantação"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestrutura em nuvem usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "iac",
+      "devops",
+      "nuvem",
+      "provisionamento"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL baseado em documentos que oferece alta disponibilidade, escalabilidade horizontal e flexibilidade de esquema.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional open source, conhecido por sua robustez e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "sql",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Estrutura de dados em memória usada como cache, broker de mensagens e banco de dados, conhecida por sua velocidade extrema.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "cache",
+      "banco de dados",
+      "estrutura de dados",
+      "performance"
+    ]
+  },
+  {
+    "nome": "Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída de alto desempenho, usada para pipelines de dados e aplicações em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "big data",
+      "event-driven"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta de dados para APIs que permite aos clientes solicitar exatamente os dados que precisam.",
+    "data_criacao": "2012",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "protocolo",
+      "consulta de dados",
+      "facebook"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework moderno de chamada de procedimento remoto (RPC) de código aberto, usado para comunicação de microsserviços.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "protocolo",
+      "microsserviços",
+      "rpc",
+      "performance"
+    ]
+  },
+  {
+    "nome": "WebAssembly",
+    "descricao": "Formato de instrução binária projetado para ser um alvo de compilação para linguagens de alto nível, permitindo execução de código rápido em navegadores.",
+    "data_criacao": "2017",
+    "link": "https://webassembly.org/",
+    "tags": [
+      "web",
+      "performance",
+      "compilação",
+      "padrão"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Kit de desenvolvimento de UI do Google para construir aplicações nativas, compiladas e multi-plataforma a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "mobile",
+      "framework",
+      "ui",
+      "multi-plataforma",
+      "google"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software moderno para rastrear mudanças no código.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "colaboração",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Elixir",
+    "descricao": "Linguagem de programação funcional, dinâmica, construída sobre a máquina virtual Erlang (BEAM), ideal para sistemas distribuídos e tolerantes a falhas.",
+    "data_criacao": "2012",
+    "link": "https://elixir-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "funcional",
+      "backend",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a criação de aplicações Spring autônomas e prontas para produção com configuração mínima.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "microsserviços",
+      "jvm"
+    ]
+  },
+  {
+    "nome": "Laravel",
+    "descricao": "Framework de aplicação web com sintaxe expressiva e elegante, focado em produtividade e desenvolvimento rápido de backend.",
+    "data_criacao": "2011",
+    "link": "https://laravel.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "mvc",
+      "php"
+    ]
+  },
+  {
+    "nome": "Solidity",
+    "descricao": "Linguagem de programação orientada a contratos para escrever contratos inteligentes, usada principalmente na plataforma Ethereum.",
+    "data_criacao": "2014",
+    "link": "https://soliditylang.org/",
+    "tags": [
+      "linguagem de programação",
+      "blockchain",
+      "web3",
+      "ethereum",
+      "smart contracts"
+    ]
+  },
+  {
+    "nome": "Metodologia Scrum",
+    "descricao": "Framework ágil para gerenciar projetos, enfatizando a entrega incremental, o trabalho em equipe e a capacidade de adaptação às mudanças.",
+    "data_criacao": "1995",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "metodologia",
+      "ágil",
+      "gestão de projetos",
+      "processo"
+    ]
+  }
+]
