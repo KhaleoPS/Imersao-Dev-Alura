@@ -2,49 +2,49 @@
   {
     "nome": "JavaScript",
     "descricao": "O JS é a linguagem da web.",
-    "ano": 1995,
+    "data_criacao": "1995",
     "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
   },
   {
     "nome": "Python",
     "descricao": "O Python é a linguagem da ciência de dados e IA.",
-    "ano": 1991,
+    "data_criacao": "1991",
     "link": "https://developer.mozilla.org/pt-BR/docs/Glossary/Python"
   },
   {
     "nome": "Java",
     "descricao": "Java é uma linguagem de programação orientada a objetos e multiplataforma. [3, 6]",
-    "ano": 1995,
+    "data_criacao": "1995",
     "link": "https://docs.oracle.com/en/java/"
   },
   {
     "nome": "C#",
     "descricao": "C# é uma linguagem de programação moderna, orientada a objetos, desenvolvida pela Microsoft. [27, 31]",
-    "ano": 2000,
+    "data_criacao": "2000",
     "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
   },
   {
     "nome": "C++",
     "descricao": "C++ é uma extensão da linguagem C, com suporte a programação orientada a objetos. [29]",
-    "ano": 1983,
+    "data_criacao": "1983",
     "link": "https://isocpp.org/get-started"
   },
   {
     "nome": "TypeScript",
     "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática opcional. [9, 13]",
-    "ano": 2012,
+    "data_criacao": "2012",
     "link": "https://www.typescriptlang.org/docs/"
   },
   {
     "nome": "PHP",
     "descricao": "PHP é uma linguagem de script do lado do servidor popular para desenvolvimento web. [24]",
-    "ano": 1994,
+    "data_criacao": "1994",
     "link": "https://www.php.net/manual/pt_BR/"
   },
   {
     "nome": "Go",
     "descricao": "Go é uma linguagem de programação compilada e focada em produtividade e programação concorrente. [5]",
-    "ano": 2009,
+    "data_criacao": "2009",
     "link": "https://go.dev/doc/"
   },
   {
